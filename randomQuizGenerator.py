@@ -45,7 +45,7 @@ for quizNum in range(35):
 
     # Write out the header for the quiz.
     quizFile.write('Name:\n\nDate:\n\nPeriod:\n\n')
-    quizFile.write((' '*20) + 'State Capitals Quiz (Form %s)' %(quizNum + 1))
+    quizFile.write((' ' * 20) + 'Capital Quiz (Form %s)' %(quizNum + 1))
     quizFile.write('\n\n')
 
     # Shuffle the order of the states.
@@ -54,8 +54,8 @@ for quizNum in range(35):
 
     # Loop through all 50 states, making a question for each.
     for questionNum in range(50):
-    
-        # Get right an wrong answers.
+
+        # Get right and wrong answers.
         correctAnswer = capitals[states[questionNum]]
         wrongAnswers = list(capitals.values())
         del wrongAnswers[wrongAnswers.index(correctAnswer)]
@@ -73,7 +73,3 @@ for quizNum in range(35):
         answerKeyFile.write('%s. %s\n' %(questionNum + 1, 'ABCD'[answerOptions.index(correctAnswer)]))
     quizFile.close()
     answerKeyFile.close()
-
-        
-
-    
