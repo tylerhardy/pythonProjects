@@ -1,0 +1,8 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "workbench.iconTheme": "vscode-icons",
+    "python.linting.pylintArgs": ["--errors-only"],
+    "files.exclude": {
+        ".gitignore": true
+    }
+}
