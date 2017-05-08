@@ -1,18 +1,6 @@
 #! python3
 """
-psuedocode:
-
-input semester and year
-
-create folder in network share
-
-create 16 files for disabilities
-
-create 16 files for dev math hub
-
-input csv file for passwords
-
-append each file with corisponding week password
+Generate ahk password files for dis and hub, and append with current semester passwords.
 """
 import os, sys
 
