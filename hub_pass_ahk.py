@@ -1,6 +1,8 @@
 #! python3
 """
 Generate ahk password files for dis and hub, and append with current semester passwords.
+Example:
+python hub_pass_ahk.py summer 2017 hub_passwords_summer_2017.csv
 """
 import os, sys
 
