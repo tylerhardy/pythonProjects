@@ -1,0 +1,12 @@
+"D_CODE","D_TYPE","D_TYPE_DESC","D_MAC_WIRED","D_MAC_WIRELESS","D_AMT","D_ACQD_DATE","D_SERIAL_NUM","D_DISP_DATE","D_DISP_COMMENT","D_PO","D_ORGN_CODE","T_ORGN_CODE_DESC","D_LOCN_CODE_RESP","T_LOCN_CODE_DESC","D_DESC","D_UOE","D_DOE","D_UOC","D_DOC","D_DEVICE_OWNER","D_OS",
+"WS0001190","PC","Personal Computer","","","0","","0012235 - Prime","","","P","25100","Botany","SL423B","Science Lab - 423B","Botany","mattcain","05/09/2012","","","",""
+"WS0001196","PC","Personal Computer","","","0","","0016639 - Prime","","","P","25100","Botany","SL423B","Science Lab - 423B","Botany","mattcain","05/09/2012","","","",""
+"WS0001192","PC","Personal Computer","00270e0267e6","","0","05/09/2012","0012252 - PRIME","","","UNKNOWN","25100","Botany","SL423B","Science Lab - 423B","Botany","mattcain","05/09/2012","","","",""
+"WS0005459","PC","Personal Computer","","","","10/27/2012","6742XV1","","","P","25100","Botany","SL0423","Science Lab - 423","","tylerwilliams2","10/30/2012","","","SONYAWELSH",""
+"WS0005457","PC","Personal Computer","90b11c63f66f","","","10/26/2012","67734XV1","","","P","25100","Botany","SL407M","Science Lab - 407M","","tylerwilliams2","10/30/2012","","","RDECKERT",""
+"WS0005461","PC","Personal Computer","","689423276475","","10/29/2012","6733XV1","","","P","25100","Botany","SL409M","Science Lab - 409M","","tylerwilliams2","11/05/2012","","","SUEHARLEY",""
+"WS0007538","PC","Personal Computer","74d435f8a7a3","n/a","","","095561","","","P","25100","Botany","SL402M","Science Lab - 402M","Desktop","stephencain","10/30/2014","","","maryowen",""
+"WS0010709","LT","Laptop/Notebook","782bcbf70c49","d0df9ad55l7b","","","42516904861","","","P","25100","Botany","SL0420","Science Lab - 420","Dell Latitude E5510","stephencain","09/04/2015","","","sonyawelsh",""
+"WS0007555","PC","Personal Computer","408d5c0aedec","","901","12/17/2015","098004","","","P0056857","25100","Botany","SL404M","Science Lab - 404M","starwest campus stand.","tylerhardy","12/17/2015","","","Barbara Wachocki","Windows"
+"WS0010902","LT","Laptop/Notebook","‎68f728e4680","‎34e6adea205","1006","01/26/2016","PF0A8GTZ","","","P0057751","25100","Botany","SL409M","Science Lab - 409M","IBM ThinkPad","tylerhardy","02/01/2016","","","Katharina Schramm","Windows"
+"WS0006959","PC","Personal Computer","0016d4ded8df","001cbf62b0c1","","09/24/2013","0011050","","","P","25100","Botany","TY0346","Tracy Hall Science Ctr - 346","Prime","stephencain","01/05/2017","","","sonyawelsh",""
